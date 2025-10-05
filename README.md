@@ -1,0 +1,1 @@
+This repository is only for media files (images, videos, sounds, etc.) used in the course "Deep Neural Networks" at the AGH University.
