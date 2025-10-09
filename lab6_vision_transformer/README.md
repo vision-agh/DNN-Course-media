@@ -4,3 +4,4 @@ Source of the media files:
 2. https://arxiv.org/pdf/2010.11929
 3. https://theaisummer.com/vision-transformer/
 4. https://learnopencv.com/the-future-of-image-recognition-is-here-pytorch-vision-transformer/
+5. https://blog.roboflow.com/what-is-a-vision-language-model/
