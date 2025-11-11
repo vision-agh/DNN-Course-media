@@ -1,0 +1,3 @@
+Source of the media files:
+
+1. https://www.researchgate.net/publication/363843549_Adaptive-SpikeNet_Event-based_Optical_Flow_Estimation_using_Spiking_Neural_Networks_with_Learnable_Neuronal_Dynamics
